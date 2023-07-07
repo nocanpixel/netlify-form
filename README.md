@@ -1,1 +1,1 @@
-# netlifz-form
+# netlify-form
